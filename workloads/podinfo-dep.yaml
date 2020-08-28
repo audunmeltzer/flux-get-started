@@ -59,7 +59,7 @@ spec:
         - name: PODINFO_UI_COLOR
           value: "#34577c"
         - name: PODINFO_UI_MESSAGE
-          value: "GitOps in action"
+          value: "Takk for meg"
         livenessProbe:
           httpGet:
             path: /healthz
